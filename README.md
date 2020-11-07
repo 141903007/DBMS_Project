@@ -18,4 +18,4 @@ Software Requirement(any one) WAMP Server XAMPP Server MAMP Server LAMP Server I
  5. To Login as admin put "http://localhost/exam/admin" Admin Login Details Login Id: kajal@gmail.com   Pass: 123456
  6. Student Login: id: jarecs@gmail.com or jarecs6788@gmail.com pass: 123456
  
- ![torrent file](https://raw.github.com/141903007/DBMS_Project/1Synopsis_141903007_141903010.pdf)
+ ![Synopsis](https://raw.github.com/141903007/DBMS_Project/1Synopsis_141903007_141903010.pdf)
